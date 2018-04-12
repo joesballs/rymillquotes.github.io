@@ -47,6 +47,7 @@ rymillQuotes[44] = "<i>*ben says it's his birthday*</i> <font color='red'>not ar
 rymillQuotes[45] = "interchangeable tins of beans on a supermarket shelf -- thats what you lads are";
 rymillQuotes[46] = "i ride my bike to school every day lads";
 rymillQuotes[47] = "<font color='red'>Science Fiction</font> generally becomes <font color='red'>Science Fact</font>.";
+rymillQuotes[48] = "I saw my first proper fight in 10 years just then, i mean it was a proper fight. I don't know the kids but he was tall and had messy <font color='orange'>ginger hair</font>";
 
 
 var rymillSpeech = new Array();
