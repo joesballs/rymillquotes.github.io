@@ -6,7 +6,7 @@ rymillQuotes[3] = "<font color='red'>PHYSICALLY</font> turn your chairs around";
 rymillQuotes[4] = "fruad your way into the education system";
 rymillQuotes[5] = "They used the best wood in the world to make this school, it would take days to burn down";
 rymillQuotes[6] = "this booklet has 90% of the course in it lads";
-rymillQuotes[7] = "The government is run by Google";
+rymillQuotes[7] = "The government is run by <font color='blue'>G</font><font color='red'>o</font><font color='gold'>o</font><font color='blue'>g</font><font color='green'>l</font><font color='red'>e</font>";
 rymillQuotes[8] = "quit yapping lads";
 rymillQuotes[9] = "what are u doing mate";
 rymillQuotes[10] = "<i>*wears same coloured socks to match his jumper*</i>";
@@ -22,7 +22,7 @@ rymillQuotes[19] = "when you leave this school with this qualification you’ll 
 rymillQuotes[20] = "what a load of phony balony";
 rymillQuotes[21] = "<i>*asks you a question that you don’t know*</i> ... i rest my case";
 rymillQuotes[22] = "alright over there lad?";
-rymillQuotes[23] = "Mr spence over there";
+rymillQuotes[23] = "Mr <i>Spence</i> over there";
 rymillQuotes[24] = "What’s he do when he’s at home";
 rymillQuotes[25] = "Nah come on Joel man";
 rymillQuotes[26] = "it's a past paper I’ve cobbled together";
