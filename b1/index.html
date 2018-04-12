@@ -10,54 +10,36 @@ p {
   font-size: 60px;
   margin-top:0px;
 }
-zaa {
-    text-align: center;
-    display: block;
-    font-size: 20px;
- 
-}
 </style>
 </head>
 <body>
 
-<zaa>Maximum amount of time until rymillquotes.com would be available:</zaa>
 
-
-<p id="demo"></p>
-
-
+<p id="rymillDisplay"></p>
 <script>
-// Set the date we're counting down to
-var countDownDate = new Date("Apr 12, 2018 23:59:59").getTime();
-
-// Update the count down every 1 second
-var x = setInterval(function() {
-
-    // Get todays date and time
-    var now = new Date().getTime();
+var rymillQuotes = new Array();  
+rymillQuotes[0] = "3 hours revision a day atleast";
+rymillQuotes[1] = "What even is a 5 letter swear word?";
+rymillQuotes[2] = "*wears stripey socks and puts his feet on the desk*";
+rymillQuotes[3] = "Physically turn your chairs around";
+rymillQuotes[4] = "fruad your way into the education system";
+rymillQuotes[5] = "They used the best wood in the to make this school, it would take days to burn down";
+rymillQuotes[6] = "In about 40 years time people will lose jobs because robots but you've gotta be thinking: 'who has to fix them?'";
+rymillQuotes[7] = "The government is basically run by Google";
+rymillQuotes[8] = "a";
+rymillQuotes[9] = "a";
+rymillQuotes[10] = "a";
+rymillQuotes[11] = "a";
+rymillQuotes[12] = "a";
+rymillQuotes[13] = "a";
+rymillQuotes[14] = "a";
+rymillQuotes[15] = "a";
+        
+var rymillRandom = Math.floor(Math.random()*rymillQuotes.length);
     
-    // Find the distance between now an the count down date
-    var distance = countDownDate - now;
-    
-    // Time calculations for days, hours, minutes and seconds
-    var days = Math.floor(distance / (1000 * 60 * 60 * 24));
-    var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-    var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
-    var seconds = Math.floor((distance % (1000 * 60)) / 1000);
-    
-    // Output the result in an element with id="demo"
-    document.getElementById("demo").innerHTML = hours + "h "
-    + minutes + "m " + seconds + "s ";
-    
-    // If the count down is over, write some text 
-    if (distance < 0) {
-        clearInterval(x);
-        document.getElementById("demo").innerHTML = "EXPIRED";
-    }
-}, 1000);
+document.getElementById("rymillDisplay").innerHTML = rymillQuotes[rymillRandom];
 </script>
 
-<zaa>If you have any rymillquotes, pls submit them at <a href="http://RYMILLQUOTES.Sarahah.com">rymillquotes.sarahah.com</a> 😊😊</zaa>    
     
 </body>
 </html>
