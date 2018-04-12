@@ -40,7 +40,7 @@ rymillQuotes[37] = "<font color='red'>LOG OFF</font> and <font color='red'>DISAP
 rymillQuotes[38] = "back in my day lad";
 rymillQuotes[39] = "Ben over there ye need to be revisin";
 rymillQuotes[40] = "phoney baloney";
-rymillQuotes[41] = "and we cocked it up";
+rymillQuotes[41] = "gotta eat your granola";
 
 var rymillRandom = Math.floor(Math.random() * rymillQuotes.length);
 document.getElementById("rymillDisplay").innerHTML = '"'+rymillQuotes[rymillRandom]+'"';
