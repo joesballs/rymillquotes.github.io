@@ -41,6 +41,7 @@ rymillQuotes[38] = "back in my day lad";
 rymillQuotes[39] = "Ben over there ye need to be revisin";
 rymillQuotes[40] = "phoney baloney";
 rymillQuotes[41] = "gotta eat your granola";
+rymillQuotes[42] = "joe over there what's the answer"
 
 var rymillSpeech = new Array();
 rymillSpeech[0] = "says";
