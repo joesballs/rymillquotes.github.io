@@ -2,7 +2,7 @@ var rymillQuotes = new Array();
 rymillQuotes[0] = "3 hours revision a day atleast";
 rymillQuotes[1] = "What even is a 5 letter swear word?";
 rymillQuotes[2] = "<i>*wears stripey socks and puts his feet on the desk*</i>";
-rymillQuotes[3] = "Physically turn your chairs around";
+rymillQuotes[3] = "<font color='red'>PHYSICALLY</font> turn your chairs around";
 rymillQuotes[4] = "fruad your way into the education system";
 rymillQuotes[5] = "They used the best wood in the world to make this school, it would take days to burn down";
 rymillQuotes[6] = "this booklet has 90% of the course in it lads";
