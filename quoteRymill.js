@@ -48,7 +48,8 @@ rymillQuotes[45] = "interchangeable tins of beans on a supermarket shelf -- that
 rymillQuotes[46] = "i ride my bike to school every day lads";
 rymillQuotes[47] = "<font color='red'>Science Fiction</font> generally becomes <font color='red'>Science Fact</font>.";
 rymillQuotes[48] = "I saw my first proper fight in 10 years just then, i mean it was a proper fight. I don't know the kids but he was tall and had messy <font color='orange'>ginger hair</font>";
-
+rymillQuotes[49] = "Here's a paper hot off the press for yers lads";
+rymillQuotes[50] = "Ayy er mr gunnery, pay attention please yeah?";
 
 var rymillSpeech = new Array();
 rymillSpeech[0] = "says";
