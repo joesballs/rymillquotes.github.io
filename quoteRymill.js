@@ -42,5 +42,17 @@ rymillQuotes[39] = "Ben over there ye need to be revisin";
 rymillQuotes[40] = "phoney baloney";
 rymillQuotes[41] = "gotta eat your granola";
 
+var rymillSpeech = new Array();
+rymillSpeech[0] = "says";
+rymillSpeech[1] = "shouts";
+rymillSpeech[2] = "shudders";
+rymillSpeech[3] = "beams";
+rymillSpeech[4] = "remarks";
+rymillSpeech[5] = "carps";
+rymillSpeech[6] = "scoffs";
+rymillSpeech[7] = "snaps";
+rymillSpeech[8] = "bellows";
+
 var rymillRandom = Math.floor(Math.random() * rymillQuotes.length);
-document.getElementById("rymillDisplay").innerHTML = '"'+rymillQuotes[rymillRandom]+'"';
+var speechRandom = Math.floor(Math.random() * rymillSpeech.length);
+document.getElementById("rymillDisplay").innerHTML = 'Rymill '+rymillSpeech[speechRandom]+': <br />"'+rymillQuotes[rymillRandom]+'"';
