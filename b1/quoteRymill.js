@@ -36,12 +36,10 @@ rymillQuotes[33] = "My point proven";
 rymillQuotes[34] = "goed take the new sign home as a souvenir";
 rymillQuotes[35] = "Basically I guess the questions every year";
 rymillQuotes[36] = "an all tha palaver";
-rymillQuotes[37] = "LOG OFF and DISAPPEAR";
+rymillQuotes[37] = "<font color='red'>LOG OFF</font> and <font color='red'>DISAPPEAR</font>";
 rymillQuotes[38] = "back in my day lad";
 rymillQuotes[39] = "Ben over there ye need to be revisin";
 rymillQuotes[40] = "Phoney baloney";
-rymillQuotes[41] = "just compile your list";
-rymillQuotes[42] = "use the teacher handbook lad come on";
 
 var rymillRandom = Math.floor(Math.random() * rymillQuotes.length);
 document.getElementById("rymillDisplay").innerHTML = rymillQuotes[rymillRandom];
