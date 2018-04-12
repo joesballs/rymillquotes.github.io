@@ -43,8 +43,10 @@ rymillQuotes[40] = "phoney baloney";
 rymillQuotes[41] = "gotta eat your granola";
 rymillQuotes[42] = "joe over there what's the answer";
 rymillQuotes[43] = "that's a breach of the computer misuse act";
-rymillQuotes[44] = "<i>*ben says it's his birthday*</i> <font color='red'>not bothered</font>";
+rymillQuotes[44] = "<i>*ben says it's his birthday*</i> <font color='red'>not arsed</font>";
 rymillQuotes[45] = "interchangeable tins of beans on a supermarket shelf -- thats what you lads are";
+rymillQuotes[46] = "i ride my bike to school every day lads";
+rymillQuotes[47] = "<font color='red'>Science Fiction</font> generally becomes <font color='red'>Science Fact</font>.";
 
 
 var rymillSpeech = new Array();
