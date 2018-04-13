@@ -64,6 +64,7 @@ rymillQuotes[61] = "You wouldn’t have lasted five minutes in my day";
 rymillQuotes[62] = "Develop an attention span";
 rymillQuotes[63] = "Real life isn’t like this";
 rymillQuotes[64] = "With a haircut like that – I wouldn’t be laughing.";
+rymillQuotes[65] = "Elliot Rodgers -- pain in the arse";
 
 var rymillSpeech = new Array();
 rymillSpeech[0] = "says";
