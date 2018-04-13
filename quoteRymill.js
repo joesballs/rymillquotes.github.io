@@ -33,7 +33,7 @@ rymillQuotes[30] = "i know u just minimised it, i just saw you. turn it off.";
 rymillQuotes[31] = "Yeno I’m not that good at maths";
 rymillQuotes[32] = "There’s a reason we get higher than national average";
 rymillQuotes[33] = "My point proven";
-rymillQuotes[34] = "goed take the new sign home as a souvenir";
+rymillQuotes[34] = "go ed take the new sign home as a souvenir";
 rymillQuotes[35] = "Basically I guess the questions every year";
 rymillQuotes[36] = "an all tha palaver";
 rymillQuotes[37] = "<font color='red'>LOG OFF</font> and <font color='red'>DISAPPEAR</font>";
@@ -50,12 +50,12 @@ rymillQuotes[47] = "<font color='red'>Science Fiction</font> generally becomes <
 rymillQuotes[48] = "I saw my first proper fight in 10 years just then, i mean it was a proper fight. I don't know the kids but he was tall and had messy <font color='orange'>ginger hair</font>";
 rymillQuotes[49] = "Here's a paper hot off the press for yers lads";
 rymillQuotes[50] = "Ayy er mr gunnery, pay attention please yeah?";
-rymillQuotes[51] = "how's it spelt again lads? P.I.E? (π)";
+rymillQuotes[51] = "my wife works with the national police database...";
 rymillQuotes[52] = "The best time you can have that I can think of is sitting in the back garden with a few pizzas and some beers.";
 rymillQuotes[53] = "I made it on the Wikipedia once yenno";
 rymillQuotes[54] = "To be honest lad, you're a C / D borderline student";
 rymillQuotes[55] = "I speak Italian yenno";
-rymillQuotes[56] = "It’s the gamification of education ";
+rymillQuotes[56] = "It’s the gamification of education";
 rymillQuotes[57] = "You can't be working - You're concentrating on the screen too much";
 rymillQuotes[58] = "Have you got the internet at home";
 rymillQuotes[59] = "Do it at home – or rather <i>don’t</i> do it at home";
@@ -77,10 +77,6 @@ rymillSpeech[6] = "scoffs";
 rymillSpeech[7] = "snaps";
 rymillSpeech[8] = "bellows";
 
-var rymillRandom = Math.floor(Math.random() * rymillQuotes.length);
-var speechRandom = Math.floor(Math.random() * rymillSpeech.length);
-document.getElementById("rymillDisplay").innerHTML = 'Rymill ' + rymillSpeech[speechRandom] + ': <br />"' + rymillQuotes[rymillRandom] + '"';
-
 var emojis = new Array();
 emojis[0] = "🐝";
 emojis[1] = "📆";
@@ -93,5 +89,10 @@ emojis[7] = "👻 ";
 emojis[8] = "🙀";
 emojis[9] = "😜";
 emojis[10] = "😁";
+
+var rymillRandom = Math.floor(Math.random() * rymillQuotes.length);
+var speechRandom = Math.floor(Math.random() * rymillSpeech.length);
 var emojiRandom = Math.floor(Math.random() * emojis.length);
+
+document.getElementById("rymillDisplay").innerHTML = 'Rymill ' + rymillSpeech[speechRandom] + ': <br />"' + rymillQuotes[rymillRandom] + '"';
 document.getElementById("emoji").innerHTML = emojis[emojiRandom];
