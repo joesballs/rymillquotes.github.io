@@ -44,7 +44,7 @@ rymillQuotes[41] = "gotta eat your granola";
 rymillQuotes[42] = "joe over there what's the answer";
 rymillQuotes[43] = "that's a breach of the computer misuse act";
 rymillQuotes[44] = "<i>*ben says it's his birthday*</i> <font color='red'>not arsed</font>";
-rymillQuotes[45] = "interchangeable tins of beans on a supermarket shelf -- thats what you lads are";
+rymillQuotes[45] = "interchangeable tins of beans on a supermarket shelf – thats what you lads are";
 rymillQuotes[46] = "i ride my bike to school every day lads";
 rymillQuotes[47] = "<font color='red'>Science Fiction</font> generally becomes <font color='red'>Science Fact</font>.";
 rymillQuotes[48] = "I saw my first proper fight in 10 years just then, i mean it was a proper fight. I don't know the kids but he was tall and had messy <font color='orange'>ginger hair</font>";
@@ -64,7 +64,7 @@ rymillQuotes[61] = "You wouldn’t have lasted five minutes in my day";
 rymillQuotes[62] = "Develop an attention span";
 rymillQuotes[63] = "Real life isn’t like this";
 rymillQuotes[64] = "With a haircut like that – I wouldn’t be laughing.";
-rymillQuotes[65] = "Elliot Rodgers -- pain in the arse";
+rymillQuotes[65] = "Elliot Rodgers – pain in the arse";
 
 var rymillSpeech = new Array();
 rymillSpeech[0] = "says";
