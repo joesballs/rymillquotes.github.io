@@ -51,6 +51,7 @@ rymillQuotes[48] = "I saw my first proper fight in 10 years just then, i mean it
 rymillQuotes[49] = "Here's a paper hot off the press for yers lads";
 rymillQuotes[50] = "Ayy er mr gunnery, pay attention please yeah?";
 rymillQuotes[51] = "how's it spelt again lads? P.I.E? (π)";
+rymillQuotes[52] = "The best time you can have that I can think of is sitting in the back garden with a few pizzas and some beers.";
 
 var rymillSpeech = new Array();
 rymillSpeech[0] = "says";
