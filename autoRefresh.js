@@ -1,3 +1,5 @@
+//I'd like to thank Google for giving me this code :)
+
 var reloading;
 
 function checkReloading() {

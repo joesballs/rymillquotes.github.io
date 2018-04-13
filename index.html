@@ -23,20 +23,25 @@
 <meta name="msapplication-TileImage" content="favicons/ms-icon-144x144.png">
 <meta name="theme-color" content="#ffb6c1">
 </head>
+
 <body>
    
-<h3 id="titleText">rymillquotes.com • <a href="submit.html">submit</a><br /><a href="index.html">refresh</a> for a new quote - <input type="checkbox" onclick="toggleAutoRefresh(this);" id="reloadCB"> auto refresh</h3>
+    <h3 id="titleText">rymillquotes.com</h3>
+    <h1 id="rymillDisplay"></h1>
+    <img src="https://i.ytimg.com/vi/h92oK9u3pzI/hqdefault.jpg" />
+
+    <div class="footer">
+        <h3 id="titleText">rymill is a legend <lol id="emoji"></lol><br /><a href="submit.html">submit a quote</a> • <a href="index.html">refresh</a> quote • <input type="checkbox" onclick="toggleAutoRefresh(this);" id="reloadCB"> auto refresh</h3>
+    </div>
+    
+
+    <script src="quoteRymill.js"></script>
     <script src="autoRefresh.js"></script>
+    <script>
+    document.getElementById("rymillDisplay").innerHTML = 'Rymill ' + rymillSpeech[speechRandom] + ': <br />"' + rymillQuotes[rymillRandom] + '"';
 
-<h1 id="rymillDisplay"></h1>
-<img src="https://i.ytimg.com/vi/h92oK9u3pzI/hqdefault.jpg" />
-
-
-<div class="footer">
-<h3 id="titleText">made by 11WD/CS1 & 11WD/CS2 <lol id="emoji"></lol></h3>  
-</div>
-<script src="quoteRymill.js"></script>
-<script>document.getElementById("rymillDisplay").innerHTML = 'Rymill ' + rymillSpeech[speechRandom] + ': <br />"' + rymillQuotes[rymillRandom] + '"';
-document.getElementById("emoji").innerHTML = emojis[emojiRandom];</script>
+    document.getElementById("emoji").innerHTML = emojis[emojiRandom];
+    </script>
+    
 </body>
 </html>
