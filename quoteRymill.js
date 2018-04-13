@@ -46,7 +46,7 @@ rymillQuotes[43] = "that's a breach of the computer misuse act";
 rymillQuotes[44] = "<i>*ben says it's his birthday*</i> <font color='red'>not arsed</font>";
 rymillQuotes[45] = "interchangeable tins of beans on a supermarket shelf – thats what you lads are";
 rymillQuotes[46] = "i ride my bike to school every day lads";
-rymillQuotes[47] = "<font color='red'>Science Fiction</font> generally becomes <font color='red'>Science Fact</font>.";
+rymillQuotes[47] = "<font color='red'>Science fiction</font> generally becomes <font color='red'>Science fact</font>.";
 rymillQuotes[48] = "I saw my first proper fight in 10 years just then, i mean it was a proper fight. I don't know the kids but he was tall and had messy <font color='orange'>ginger hair</font>";
 rymillQuotes[49] = "Here's a paper hot off the press for yers lads";
 rymillQuotes[50] = "Ayy er mr gunnery, pay attention please yeah?";
@@ -65,6 +65,7 @@ rymillQuotes[62] = "Develop an attention span";
 rymillQuotes[63] = "Real life isn’t like this";
 rymillQuotes[64] = "With a haircut like that – I wouldn’t be laughing.";
 rymillQuotes[65] = "Elliot Rodgers – pain in the arse";
+rymillQuotes[66] = "<i>*walks into another class with socks on*</i> you alright?";
 
 var rymillSpeech = new Array();
 rymillSpeech[0] = "says";
@@ -93,6 +94,3 @@ emojis[10] = "😁";
 var rymillRandom = Math.floor(Math.random() * rymillQuotes.length);
 var speechRandom = Math.floor(Math.random() * rymillSpeech.length);
 var emojiRandom = Math.floor(Math.random() * emojis.length);
-
-document.getElementById("rymillDisplay").innerHTML = 'Rymill ' + rymillSpeech[speechRandom] + ': <br />"' + rymillQuotes[rymillRandom] + '"';
-document.getElementById("emoji").innerHTML = emojis[emojiRandom];
