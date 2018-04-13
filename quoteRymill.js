@@ -53,7 +53,7 @@ rymillQuotes[50] = "Ay, err Mr Gunnery, pay attention please yeah?";
 rymillQuotes[51] = "The best time you can have that I can think of is sitting in the back garden with a few pizzas and some beers.";
 rymillQuotes[52] = "I made it onto the Wikipedia once yenno";
 rymillQuotes[53] = "To be honest lad, you’re a C/D borderline student";
-rymillQuotes[54] = "I speak Italian yenno";
+rymillQuotes[54] = "I speak <font color='#009246'>It</font><font color='darkgrey'>ali</font><font color='#ce2b37'>an</font>, yenno";
 rymillQuotes[55] = "It’s the gamification of education";
 rymillQuotes[56] = "You can’t be working - You’re concentrating on the screen too much";
 rymillQuotes[57] = "Have you got the internet at home?";
