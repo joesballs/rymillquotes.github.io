@@ -1,6 +1,6 @@
 var rymillQuotes = new Array();
 rymillQuotes[0] = "3 hours revision a day atleast";
-rymillQuotes[1] = "What even is a 5 letter swear word?";
+rymillQuotes[1] = "Don’t wonder round like a lost sheep come on";
 rymillQuotes[2] = "<i>*wears stripey socks and puts his feet on the desk*</i>";
 rymillQuotes[3] = "<font color='red'>PHYSICALLY</font> turn your chairs around";
 rymillQuotes[4] = "fruad your way into the education system";
@@ -52,6 +52,18 @@ rymillQuotes[49] = "Here's a paper hot off the press for yers lads";
 rymillQuotes[50] = "Ayy er mr gunnery, pay attention please yeah?";
 rymillQuotes[51] = "how's it spelt again lads? P.I.E? (π)";
 rymillQuotes[52] = "The best time you can have that I can think of is sitting in the back garden with a few pizzas and some beers.";
+rymillQuotes[53] = "I made it on the Wikipedia once yenno";
+rymillQuotes[54] = "To be honest lad, your a C / D borderline student";
+rymillQuotes[55] = "I speak Italian yenno";
+rymillQuotes[56] = "It’s the ‘game’ification of education ";
+rymillQuotes[57] = "You can't be working - You're concentrating on the screen too much";
+rymillQuotes[58] = "Have you got the internet at home";
+rymillQuotes[59] = "Do it at home – or rather don’t do it at home";
+rymillQuotes[60] = "We’re heading towards a new Victorian Era – be on the right side on the fence.";
+rymillQuotes[61] = "You wouldn’t have lasted five minutes in my day";
+rymillQuotes[62] = "Develop an attention span";
+rymillQuotes[63] = "Real life isn’t like this";
+rymillQuotes[64] = "With a haircut like that – I wouldn’t be laughing.";
 
 var rymillSpeech = new Array();
 rymillSpeech[0] = "says";
