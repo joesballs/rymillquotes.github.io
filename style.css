@@ -2,7 +2,7 @@
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }*/
 
-#titleText {
+#titleText, h3 {
     text-align: center;
     color: darkgray;
     font-weight: 300;
