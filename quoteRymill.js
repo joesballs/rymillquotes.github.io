@@ -65,6 +65,7 @@ rymillQuotes[62] = "Real life isn’t like this";
 rymillQuotes[63] = "With a haircut like that – I wouldn’t be laughing.";
 rymillQuotes[64] = "Elliot Rodgers – pain in the arse";
 rymillQuotes[65] = "<i>*walks into another class with socks on*</i> you alright?";
+rymillQuotes[66] = "I'm trying to get <a href='http://ks3historygames.co.uk' target='_blank'>my website</a> to the top of google";
 
 var rymillSpeech = new Array();
 rymillSpeech[0] = "says";
