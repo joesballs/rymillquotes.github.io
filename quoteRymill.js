@@ -71,6 +71,7 @@ rymillQuotes[68] = "How do you spell it again?";
 rymillQuotes[69] = "Look at me when I’m talking to you – it’s weird!";
 rymillQuotes[70] = "Yenno, I told Mrs Rannard to mine bitcoin on the school computers. That would’ve paid for our pensions!";
 rymillQuotes[71] = "Sto imparando l’italiano – guess what that means!";
+rymillQuotes[72] = "A library overcharged me... So what did I do? I DDoSed them";
 
 var rymillSpeech = new Array();
 rymillSpeech[0] = "says";
