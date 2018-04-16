@@ -69,8 +69,8 @@ rymillQuotes[66] = "I’m trying to get <a href='http://ks3historygames.co.uk' t
 rymillQuotes[67] = "How do you spell it?";
 rymillQuotes[68] = "How do you spell it again?";
 rymillQuotes[69] = "Look at me when I’m talking to you – it’s weird!";
-rymillQuotes[70] = "Ye know I told Mrs Rannard to mine bitcoin on the school computers. That would’ve paid for our pensions!";
-
+rymillQuotes[70] = "Yenno, I told Mrs Rannard to mine bitcoin on the school computers. That would’ve paid for our pensions!";
+rymillQuotes[71] = "Sto imparando l’italiano – guess what that means!";
 
 var rymillSpeech = new Array();
 rymillSpeech[0] = "says";
