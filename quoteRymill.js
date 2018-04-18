@@ -81,8 +81,9 @@ rymillQuotes[78] = "I can multitask yenno";
 rymillQuotes[79] = "Tiny minds are very easily distracted";
 rymillQuotes[80] = "I’d rather have my dignity than be like Mr Bruff";
 rymillQuotes[81] = "Don’t be like clapping seal";
-
-
+rymillQuotes[82] = "Leave the bloomin’ thing alone will ye";
+rymillQuotes[83] = "Turn around folks";
+/*rymillQuotes[84] = "";*/
 
 var rymillSpeech = new Array();
 rymillSpeech[0] = "says";
