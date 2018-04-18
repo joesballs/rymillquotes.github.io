@@ -77,6 +77,7 @@ rymillQuotes[74] = "There was no email back in my day";
 rymillQuotes[75] = "The school created a job for me because I was just that good at what I do";
 rymillQuotes[76] = "Right lads I'll let you get on with your work, <i>*5 minutes later*</i>, lads if you could bring your chairs to the front for me";
 rymillQuotes[77] = "Dylan lad, you could get distracted in an empty room";
+rymillQuotes[78] = "I can multitask yenno";
 
 
 var rymillSpeech = new Array();
